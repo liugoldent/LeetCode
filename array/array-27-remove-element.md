@@ -1,5 +1,9 @@
 # 27. Remove Element
 
+{% hint style="info" %}
+Easy
+{% endhint %}
+
 ```javascript
 var removeElement = function(nums, val) {
     var count = 0;
