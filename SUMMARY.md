@@ -6,5 +6,6 @@
   * [26. Remove Duplicates from Sorted Array](array/array-26.-remove-duplicates-from-sorted-array.md)
   * [27. Remove Element](array/array-27-remove-element.md)
   * [35. Search Insert Position](array/array-35.-search-insert-position.md)
+  * [53. Maximum Subarray](array/array-53.-maximum-subarray.md)
   * [88. Merge Sorted Array](array/array-88.-merge-sorted-array.md)
 
