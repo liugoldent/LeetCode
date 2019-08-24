@@ -9,3 +9,7 @@
   * [53. Maximum Subarray](array/array-53.-maximum-subarray.md)
   * [88. Merge Sorted Array](array/array-88.-merge-sorted-array.md)
 
+## Integer
+
+* [66. Plus One](integer/integer-66.-plus-one.md)
+
