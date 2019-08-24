@@ -5,5 +5,6 @@
   * [1. Two Sum](array/array-1.-two-sum.md)
   * [26. Remove Duplicates from Sorted Array](array/array-26.-remove-duplicates-from-sorted-array.md)
   * [27. Remove Element](array/array-27-remove-element.md)
+  * [35. Search Insert Position](array/array-35.-search-insert-position.md)
   * [88. Merge Sorted Array](array/array-88.-merge-sorted-array.md)
 
