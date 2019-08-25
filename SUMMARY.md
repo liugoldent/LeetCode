@@ -8,6 +8,7 @@
   * [35. Search Insert Position](array/array-35.-search-insert-position.md)
   * [53. Maximum Subarray](array/array-53.-maximum-subarray.md)
   * [88. Merge Sorted Array](array/array-88.-merge-sorted-array.md)
+  * [118. Pascal's Triangle](array/array-118.-pascals-triangle.md)
 * [INTEGER](integer-1/README.md)
   * [66. Plus One](integer-1/integer-66.-plus-one.md)
 
