@@ -10,5 +10,6 @@
   * [88. Merge Sorted Array](array/array-88.-merge-sorted-array.md)
   * [118. Pascal's Triangle](array/array-118.-pascals-triangle.md)
 * [INTEGER](integer-1/README.md)
+  * [7. Reverse Integer](integer-1/integer-7.-reverse-integer.md)
   * [66. Plus One](integer-1/integer-66.-plus-one.md)
 
